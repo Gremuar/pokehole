@@ -167,7 +167,7 @@ const POKEMON = [
     types: ['grass', 'poison'],
     height: '0.7 м',
     weight: '6.9 кг',
-    image: 'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1.png',
+    image: 'Images/1.png',
     intro: 'Бульбазавр — покемон двойного травяного/ядовитого типа из первого поколения покемонов. Это первый покемон в национальном покедексе и один из трёх стартовиков региона Канто. На 16-м уровне эволюционирует в ивизавра, а тот, в свою очередь, на 32-м — в венузавра.',
     sections: [
       {
@@ -196,7 +196,7 @@ const POKEMON = [
     types: ['fire'],
     height: '0.6 м',
     weight: '8.5 кг',
-    image: 'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/4.png',
+    image: 'Images/4.png',
     intro: 'Чармандер — покемон огненного типа из первого поколения покемонов. Один из трёх стартовиков региона Канто. На 16-м уровне эволюционирует в чармелеона, а на 36-м — в чаризарда.',
     sections: [
       {
@@ -225,7 +225,7 @@ const POKEMON = [
     types: ['water'],
     height: '0.5 м',
     weight: '9.0 кг',
-    image: 'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/7.png',
+    image: 'Images/7.png',
     intro: 'Сквиртл — покемон водного типа из первого поколения покемонов. Один из трёх стартовиков региона Канто. На 16-м уровне эволюционирует в вартортла, а на 36-м — в бластойза.',
     sections: [
       {
@@ -254,7 +254,7 @@ const POKEMON = [
     types: ['normal'],
     height: '0.3 м',
     weight: '6.5 кг',
-    image: 'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/133.png',
+    image: 'Images/133.png',
     intro: 'Иви — покемон обычного типа из первого поколения покемонов. Уникален тем, что может эволюционировать сразу в несколько форм в зависимости от условий. Эволюционные формы иви называются «ивелюциями».',
     sections: [
       {
@@ -283,7 +283,7 @@ const POKEMON = [
     types: ['normal'],
     height: '2.1 м',
     weight: '460.0 кг',
-    image: 'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/143.png',
+    image: 'Images/143.png',
     intro: 'Снорлакс — покемон обычного типа из первого поколения покемонов. Известен своим огромным размером, аппетитом и любовью ко сну. Эволюционирует из манчки на высоком уровне.',
     sections: [
       {
@@ -312,7 +312,7 @@ const POKEMON = [
     types: ['psychic'],
     height: '2.0 м',
     weight: '122.0 кг',
-    image: 'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/150.png',
+    image: 'Images/150.png',
     intro: 'Мьюту — покемон психического типа из первого поколения покемонов, созданный искусственно на основе ДНК мифа. Легендарный покемон, обладающий невероятной психической силой.',
     sections: [
       {
